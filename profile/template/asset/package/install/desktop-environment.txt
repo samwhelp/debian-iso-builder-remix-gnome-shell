@@ -12,7 +12,8 @@
 ##
 
 gnome-shell
-ubuntu-session
+gnome-session
+gnome-session-xsession
 
 
 gnome-settings-daemon
@@ -24,7 +25,7 @@ gnome-tweaks
 gnome-shell-extension-manager
 gnome-menus
 gnome-shell-extensions
-gnome-shell-extension-ubuntu-dock
+gnome-shell-extension-dashtodock
 
 
 nautilus
